@@ -1,0 +1,29 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+  background-color: beige;
+  padding: 16px;
+  width: auto;
+  height: auto;
+  margin: auto;
+  border: solid black 2px;
+}
+
+a{
+  color: lightgrey;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited{
+  color: green
+}
+
+a:hover{
+  text-decoration: underline black;
+  color: black;
+  
+}

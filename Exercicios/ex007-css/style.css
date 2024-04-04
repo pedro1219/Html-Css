@@ -1,0 +1,12 @@
+*{
+  height: 100%;
+}
+
+body{
+  background-image:linear-gradient(90deg, #4C64D3, #823FB8, #B82C9B, #BE3190, #F45D38, #FB942D, #FEC35B )
+}
+
+h1{
+  color: black;
+  text-align: center;
+}

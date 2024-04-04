@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  font-size: 48px;
+  background-color: lightgray;
+  height: auto;
+  width: auto;
+ border: 4px solid black ;
+ padding: 10px;
+ margin: 20px;
+ outline: 5px dashed lightgrey;
+}
+
+body{
+  background-color: beige;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flexbox;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover{
+  color: brown;
+  text-decoration: underline;
+}
+
+p{
+  font-size: 20PX;
+}

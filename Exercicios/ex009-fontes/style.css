@@ -1,0 +1,18 @@
+main{
+  background-color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  margin: auto;
+  padding: 1.5px;
+  border-radius: 1em;
+  box-shadow: 3px 3px 3px rgb(69, 69, 116);
+}
+
+body{
+  background-color: rgb(164, 190, 212);
+}
+
+h1,h2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
